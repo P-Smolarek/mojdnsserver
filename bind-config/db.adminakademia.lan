@@ -12,3 +12,4 @@ jenkins IN  A   10.0.10.3
 www     IN  A   10.0.10.3
 @       IN  A   10.0.10.3
 nowy    IN  A   10.0.10.4
+testowy IN  A   10.0.0.123
